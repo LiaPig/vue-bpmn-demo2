@@ -22,11 +22,15 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ---
 ## 2.新建空的图，功能要求：
+
 ① 空的，能自己画；
+
 ② 以SVG image格式、BPMN diagram格式下载在本地；
 
 参考链接：(其实就是理解它的思路，把jQuery转化成vue)
+
 https://github.com/bpmn-io/bpmn-js-examples/blob/master/properties-panel/app/index.html
+
 https://github.com/bpmn-io/bpmn-js-examples/blob/master/properties-panel/app/index.js
 
 html:
@@ -210,10 +214,14 @@ css:
   }
 </style>
 ```
-1.一打开页面
+1.一打开页面（图片显示不全可参考详细描述）
+
 ![](https://upload-images.jianshu.io/upload_images/7016617-103288648736ff80.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-2.修改之后下载按钮亮起
+
+2.修改之后下载按钮亮起（图片显示不全可参考详细描述）
+
 ![](https://upload-images.jianshu.io/upload_images/7016617-74d2a5f8f1f262bd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ### 详细描述
 https://www.jianshu.com/p/bdc990db5159
