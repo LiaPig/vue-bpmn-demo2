@@ -21,7 +21,7 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ---
-##2.新建空的图，功能要求：
+## 2.新建空的图，功能要求：
 ① 空的，能自己画；
 ② 以SVG image格式、BPMN diagram格式下载在本地；
 
@@ -214,3 +214,6 @@ css:
 ![](https://upload-images.jianshu.io/upload_images/7016617-103288648736ff80.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 2.修改之后下载按钮亮起
 ![](https://upload-images.jianshu.io/upload_images/7016617-74d2a5f8f1f262bd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### 详细描述
+https://www.jianshu.com/p/bdc990db5159
