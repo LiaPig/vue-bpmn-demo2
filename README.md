@@ -27,7 +27,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ② 以SVG image格式、BPMN diagram格式下载在本地；
 
-参考链接：(其实就是理解它的思路，把jQuery转化成vue)
+## 参考链接：(其实就是理解它的思路，把jQuery转化成vue)
 
 https://github.com/bpmn-io/bpmn-js-examples/blob/master/properties-panel/app/index.html
 
